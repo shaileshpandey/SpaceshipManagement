@@ -1,0 +1,7 @@
+﻿<UserControl x:Class="SpaceshipManagement.Console.Asteroids"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid x:Name="LayoutRoot">
+        <Image Source="/SpaceshipManagement.Console;component/Images/Asteroids.jpg"></Image>
+    </Grid>
+</UserControl>

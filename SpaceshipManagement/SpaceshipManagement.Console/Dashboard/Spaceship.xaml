@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="SpaceshipManagement.Console.Spaceship"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid x:Name="LayoutRoot">
+        <StackPanel>
+            <Image Source="/SpaceshipManagement.Console;component/Images/Spaceship.jpg" Width="100" Height="100"></Image>
+        </StackPanel>
+    </Grid>
+</UserControl>

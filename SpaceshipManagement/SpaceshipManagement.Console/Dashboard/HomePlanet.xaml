@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="SpaceshipManagement.Console.HomePlanet"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid x:Name="LayoutRoot">
+        <StackPanel>
+            <Image Source="/SpaceshipManagement.Console;component/Images/The_Earth_seen_from_Apollo_17.jpg"></Image>
+        </StackPanel>
+    </Grid>
+</UserControl>
